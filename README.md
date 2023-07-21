@@ -1,6 +1,6 @@
 # Monitoramento-paradigmas
 
-Atividade da cadeira de paradigmas de prograamção.
+Atividade da cadeira de paradigmas de prograamção usando Java e PostgreSQL
 
 A descrição do mesmo se encontra no arquivo PP20231_3Nota.pdf
 
